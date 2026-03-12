@@ -12,4 +12,4 @@
 - シンプルな構造を丁寧にコーディング
 
 ## 公開URL
-https://sparkseed-web.github.io/.github.io/
+ https://sparkseed-web.github.io/mock-photobook/
